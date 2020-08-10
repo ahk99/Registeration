@@ -1,2 +1,3 @@
 # Registeration
-A simple spring project for redirection
+A simple spring project for redirection.
+
