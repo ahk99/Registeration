@@ -1,0 +1,4 @@
+First I have created a Spring starter project and I have converted it into WAR file.
+While it was in the Spring starter project stage, I have given the port number as 1234 in application.properties.
+
+NOTE: Eventhough I have given internal styling to the Spring starter project, it did not seem to appear on the WAR file.
